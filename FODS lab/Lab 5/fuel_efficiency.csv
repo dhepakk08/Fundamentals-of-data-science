@@ -1,0 +1,551 @@
+make,model,highway_mpg
+mazda,6,36
+mazda,6,37
+mazda,cx-5 2wd,31
+mazda,cx-5 2wd,34
+mazda,cx-5 2wd,32
+mazda,cx-5 4wd,29
+mazda,cx-5 4wd,30
+ford,mustang,29
+ford,mustang,30
+ford,mustang,24
+ford,mustang,25
+subaru,forester awd,28
+subaru,forester awd,31
+subaru,forester awd,27
+ford,mustang convertible,29
+ford,mustang,25
+nissan,gt-r,23
+audi,a8 l,36
+kia,sorento 2wd,26
+kia,sorento 2wd,27
+kia,sorento 2wd,25
+kia,sorento 4wd,24
+kia,sorento 4wd,23
+nissan,murano crosscabriolet,22
+audi,r8 spyder,22
+audi,r8,22
+audi,r8 spyder,23
+audi,r8,23
+audi,r8 spyder,19
+audi,r8,19
+audi,r8 spyder,20
+audi,r8,20
+aston martin,db9,19
+aston martin,vanquish,19
+aston martin,rapide s,19
+roush performance,stage 3 mustang,22
+jeep,compass fwd,28
+jeep,patriot fwd,28
+jeep,compass fwd,28
+jeep,patriot fwd,28
+jeep,patriot fwd,28
+jeep,compass fwd,28
+jeep,compass fwd,30
+jeep,compass 4wd,27
+jeep,patriot 4wd,27
+jeep,compass 4wd,28
+jeep,patriot 4wd,28
+jeep,grand cherokee srt8,19
+porsche,cayenne turbo,21
+roush performance,stage 3 mustang,22
+nissan,gt-r,23
+volvo,s60 awd,28
+mazda,6,37
+mazda,6,39
+mazda,6,35
+kia,k900,26
+kia,k900,23
+kia,sorento fwd,25
+mazda,cx-5 2wd,32
+mazda,cx-5 2wd,34
+mazda,cx-5 2wd,31
+kia,sorento awd,25
+kia,sorento awd,23
+mazda,cx-5 4wd,30
+mazda,cx-5 4wd,29
+volvo,xc60 awd,24
+volvo,xc70 awd,24
+audi,tt roadster quattro,31
+audi,tt coupe quattro,31
+subaru,wrx,28
+subaru,wrx,23
+volvo,s60 awd,28
+volvo,s80 awd,28
+volvo,v60 awd,28
+volvo,v60 awd,28
+chevrolet,silverado c15 2wd,23
+gmc,sierra c15 2wd,23
+chevrolet,silverado k15 4wd,22
+gmc,sierra k15 4wd,22
+kia,sorento fwd,27
+cadillac,escalade 2wd,21
+cadillac,escalade esv 2wd,21
+chevrolet,tahoe c1500 2wd,23
+chevrolet,suburban c1500 2wd,23
+gmc,yukon c1500 2wd,21
+gmc,yukon c1500 xl 2wd,21
+gmc,yukon c1500 2wd,23
+gmc,yukon c1500 xl 2wd,23
+cadillac,escalade 4wd,21
+cadillac,escalade esv 4wd,20
+chevrolet,tahoe k1500 4wd,22
+chevrolet,suburban k1500 4wd,22
+gmc,yukon k1500 xl 4wd,20
+gmc,yukon k1500 4wd,21
+gmc,yukon k1500 xl 4wd,22
+gmc,yukon k1500 4wd,22
+jaguar,f-type v8 s convertible,23
+jaguar,f-type r coupe,23
+jaguar,f-type convertible,28
+jaguar,f-type coupe,28
+mazda,6,37
+mazda,6,38
+mazda,6,36
+kia,sorento fe awd,25
+kia,sorento fwd,27
+kia,sorento fwd,28
+kia,sorento fwd,25
+mazda,cx-5 2wd,34
+mazda,cx-5 2wd,33
+kia,sorento awd,25
+kia,sorento awd,25
+kia,sorento awd,23
+mazda,cx-5 4wd,29
+audi,a7 quattro,29
+audi,a6 quattro,29
+honda,hr-v 2wd,33
+honda,hr-v 2wd,34
+honda,hr-v 2wd,34
+honda,hr-v 4wd,32
+honda,hr-v 4wd,32
+jaguar,f-type coupe,27
+jaguar,f-type convertible,27
+jaguar,f-type s coupe,27
+jaguar,f-type s convertible,27
+bentley,mulsanne,18
+hyundai,veloster,35
+hyundai,veloster,34
+hyundai,elantra gt,32
+mitsubishi,i-miev,99
+jaguar,f-type s awd coupe,26
+jaguar,f-type s awd convertible,26
+acura,ilx,35
+hyundai,elantra gt,32
+jaguar,f-type r convertible,23
+jaguar,f-type r awd coupe,23
+jaguar,f-type r awd convertible,23
+jaguar,xj,23
+jaguar,xjl,23
+acura,rlx,30
+acura,rlx hybrid,31
+nissan,gt-r,22
+hyundai,veloster,32
+hyundai,veloster,33
+audi,a6 quattro,38
+hyundai,equus,23
+kia,sedona,24
+kia,sedona sx,25
+kia,sedona sxl,22
+porsche,cayenne,24
+bmw,z4 sdrive28i,32
+hyundai,santa fe sport fwd,28
+hyundai,santa fe sport ultimate fwd,27
+hyundai,santa fe sport awd,26
+hyundai,santa fe sport ultimate awd,24
+audi,q7,25
+hyundai,elantra se,38
+hyundai,elantra,37
+hyundai,elantra,36
+hyundai,santa fe fwd,25
+hyundai,santa fe ultimate fwd,23
+hyundai,santa fe awd,24
+hyundai,santa fe ultimate awd,22
+hyundai,santa fe sport fwd,27
+hyundai,santa fe sport awd,26
+kia,sportage fwd,29
+kia,sportage fe fwd,30
+kia,sportage fwd,26
+kia,sportage awd,25
+kia,sportage fe awd,25
+kia,sportage awd,23
+cadillac,xt5,27
+cadillac,xt5 awd,26
+mitsubishi,mirage,41
+mitsubishi,mirage,43
+chrysler,pacifica,28
+mitsubishi,i-miev,102
+audi,r8,22
+audi,r8 spyder,22
+audi,a4 quattro,31
+audi,a4,33
+subaru,wrx,27
+subaru,wrx,24
+subaru,wrx,23
+bmw,740i xdrive,28
+acura,rdx fwd,28
+acura,rdx awd,27
+chevrolet,volt,42
+jaguar,f-type r awd coupe,23
+jaguar,f-type r awd convertible,23
+jaguar,f-type coupe,28
+jaguar,f-type convertible,28
+jaguar,f-type s coupe,27
+jaguar,f-type s convertible,27
+jaguar,f-type s awd coupe,26
+jaguar,f-type s awd convertible,26
+jaguar,f-type coupe,24
+jaguar,f-type convertible,24
+jaguar,f-type s coupe,24
+jaguar,f-type s convertible,24
+mini,john cooper works convertible,31
+chevrolet,equinox fwd,32
+chevrolet,equinox awd,30
+audi,a5 cabriolet quattro,34
+audi,a5 quattro,33
+audi,a4 quattro,34
+audi,a4 quattro,33
+subaru,wrx,27
+subaru,wrx,24
+audi,a5 sportback quattro,34
+genesis,g80 awd,25
+genesis,g80 rwd,27
+audi,q5,27
+audi,a5 quattro,34
+audi,s5,30
+audi,s5 cabriolet,29
+audi,s4,30
+audi,s5 sportback,30
+genesis,g80 awd,24
+genesis,g80 rwd,25
+audi,sq5,24
+bentley,bentayga,19
+bmw,430i convertible,34
+bmw,430i xdrive convertible,32
+bmw,440i convertible,29
+bmw,440i xdrive convertible,29
+bmw,m4 convertible,25
+bmw,m4 convertible,22
+bmw,640i convertible,29
+bmw,640i xdrive convertible,28
+bmw,650i convertible,25
+bmw,650i xdrive convertible,25
+bmw,m6 convertible,22
+bmw,m6 convertible,20
+bmw,430i coupe,34
+bmw,430i coupe,33
+bmw,430i xdrive coupe,33
+bmw,430i gran coupe,34
+bmw,430i xdrive gran coupe,33
+bmw,440i coupe,32
+bmw,440i xdrive coupe,31
+bmw,440i xdrive coupe,29
+bmw,440i gran coupe,32
+bmw,440i xdrive gran coupe,31
+bmw,m4 coupe,25
+bmw,m4 coupe,24
+bmw,640i gran coupe,29
+bmw,640i xdrive gran coupe,28
+bmw,650i gran coupe,25
+bmw,650i xdrive gran coupe,25
+bmw,alpina b6 xdrive gran coupe,25
+jeep,cherokee fwd,29
+jeep,cherokee 4wd,27
+jeep,cherokee 4wd active drive ii,26
+jeep,cherokee trailhawk 4wd,24
+chevrolet,corvette,25
+chevrolet,corvette,25
+chevrolet,corvette z06,23
+volkswagen,jetta,40
+volkswagen,jetta,40
+kia,sorento fwd,29
+infiniti,qx50,31
+kia,sorento fwd,26
+infiniti,qx50 awd,30
+kia,sorento awd,26
+kia,sorento awd,24
+chevrolet,corvette z06,22
+kia,sedona,24
+jeep,cherokee fwd,31
+jeep,cherokee fwd,31
+jeep,cherokee 4wd,29
+jeep,cherokee 4wd,29
+jeep,cherokee trailhawk 4wd,26
+jeep,cherokee 4wd active drive ii,27
+genesis,g70 awd,25
+genesis,g70 rwd,26
+genesis,g70 awd,28
+genesis,g70 rwd,30
+genesis,g70 rwd,28
+buick,envision awd,25
+honda,ridgeline fwd,26
+honda,ridgeline awd,25
+volvo,xc40 awd,31
+hyundai,veloster,34
+hyundai,veloster,33
+hyundai,veloster,34
+hyundai,veloster,33
+ram,1500 2wd,22
+ram,1500 4wd,21
+buick,envision fwd,29
+buick,envision awd,27
+acura,tlx fwd a-spec,32
+acura,tlx fwd a-spec,30
+acura,tlx awd,29
+acura,tlx awd a-spec,29
+chevrolet,corvette zr1,19
+chevrolet,corvette zr1,20
+mini,cooper convertible,35
+mini,cooper convertible,37
+mini,cooper s convertible,33
+mini,cooper s convertible,32
+toyota,corolla,40
+toyota,corolla hybrid,52
+toyota,corolla,36
+toyota,corolla xse,38
+toyota,corolla,38
+toyota,corolla,39
+toyota,corolla xle,37
+kia,soul,33
+kia,soul eco dynamics,35
+kia,soul,31
+kia,soul,32
+kia,sportage fwd,30
+kia,sportage fwd,28
+kia,telluride fwd,26
+kia,sportage awd,26
+kia,sportage awd,24
+kia,telluride awd,24
+mercedes-benz,gle350 4matic,26
+mercedes-benz,gle450 4matic,24
+jaguar,f-type coupe,30
+jaguar,f-type convertible,30
+jaguar,xe,34
+jaguar,xe 30t,32
+jaguar,xe awd,34
+jaguar,xe awd 30t,30
+jaguar,xf,34
+jaguar,xf 30t,31
+jaguar,xf awd,33
+jaguar,xf awd 30t,31
+jaguar,xf sportbrake awd,28
+jaguar,e-pace,28
+jaguar,e-pace p300,27
+jaguar,f-pace,27
+jaguar,f-pace 30t,27
+land rover,range rover velar,27
+land rover,range rover velar p300,26
+jaguar,f-type coupe,28
+jaguar,f-type convertible,28
+jaguar,f-type s coupe,27
+jaguar,f-type s convertible,27
+jaguar,f-type s awd coupe,26
+jaguar,f-type s awd convertible,26
+jaguar,xf awd,28
+jaguar,xf sportbrake awd,25
+jaguar,f-pace,23
+jaguar,f-pace,21
+land rover,evoque,27
+hyundai,palisade awd,24
+bmw,230i coupe,32
+hyundai,elantra,40
+kia,seltos fwd,34
+kia,seltos awd,30
+kia,seltos awd,31
+jaguar,f-type s coupe,27
+jaguar,f-type s convertible,27
+jaguar,f-type s awd coupe,26
+jaguar,f-type s awd convertible,26
+jaguar,f-type r awd coupe,24
+jaguar,f-type r awd convertible,24
+volkswagen,atlas,23
+volkswagen,atlas 4motion,22
+genesis,g70 awd,27
+genesis,g70 rwd,30
+genesis,g70 rwd,28
+kia,soul,33
+kia,soul eco dynamics,35
+kia,soul,31
+kia,soul,32
+volkswagen,atlas,24
+chevrolet,trailblazer awd,30
+genesis,g70 awd,25
+genesis,g70 rwd,26
+buick,encore gx fwd,31
+chevrolet,trailblazer fwd,33
+chevrolet,trailblazer fwd,31
+mini,cooper convertible,37
+mini,cooper s convertible,34
+mini,cooper s convertible,32
+mini,john cooper works convertible,33
+mini,cooper hardtop 2 door,37
+mini,cooper hardtop 4 door,37
+mini,cooper s hardtop 2 door,33
+mini,cooper s hardtop 4 door,33
+mini,john cooper works hardtop,34
+mini,john cooper works hardtop,33
+mini,john cooper works gp,30
+honda,insight touring,45
+hyundai,veloster,34
+hyundai,veloster,33
+hyundai,veloster,34
+hyundai,veloster,33
+honda,insight,49
+bmw,750i xdrive,24
+bmw,alpina b7,24
+chevrolet,colorado 2wd,25
+chevrolet,colorado 2wd,25
+gmc,canyon 2wd,25
+gmc,canyon 2wd,25
+chevrolet,colorado 4wd,24
+chevrolet,colorado 4wd,24
+honda,odyssey,28
+kia,stinger awd,29
+kia,stinger rwd,32
+kia,stinger awd,24
+kia,stinger rwd,25
+kia,carnival,26
+acura,mdx fwd,26
+hyundai,tucson fwd,33
+mitsubishi,eclipse cross 2wd,28
+mitsubishi,eclipse cross es 2wd,29
+acura,mdx awd,25
+mitsubishi,eclipse cross 4wd,26
+mitsubishi,eclipse cross es 4wd,28
+genesis,g70 rwd,27
+kia,sportage fwd,28
+kia,sportage fwd,30
+mitsubishi,outlander 2wd,31
+genesis,gv70 awd,25
+hyundai,tucson awd,29
+kia,sportage awd,24
+kia,sportage awd,26
+mitsubishi,outlander 4wd,30
+hyundai,kona fwd,35
+hyundai,kona fwd,35
+hyundai,kona awd,32
+hyundai,kona awd,33
+mini,cooper convertible,38
+mini,cooper convertible,37
+mini,cooper s convertible,33
+bmw,m8 competition coupe,21
+bmw,m8 competition convertible,21
+mini,cooper hardtop 2 door,38
+mini,cooper hardtop 2 door,37
+mini,cooper hardtop 4 door,38
+mini,cooper hardtop 4 door,37
+mini,cooper s hardtop 2 door,33
+mini,cooper s hardtop 4 door,33
+mini,john cooper works hardtop 2 door,31
+genesis,g70 awd,25
+bmw,x2 xdrive28i,31
+bmw,x2 m35i,30
+bmw,m5 cs sedan,21
+bmw,m8 competition gran coupe,21
+mini,cooper countryman,33
+mini,cooper countryman all4,30
+mini,cooper s clubman,33
+hyundai,tucson hybrid,36
+hyundai,tucson hybrid blue,38
+bmw,m850i xdrive coupe,25
+bmw,m850i xdrive convertible,24
+land rover,defender 90,21
+kia,sportage fwd,32
+kia,sportage awd,28
+land rover,discovery,22
+land rover,discovery mhev,25
+land rover,defender 110,20
+land rover,defender 110 mhev,23
+land rover,defender 90 mhev,23
+land rover,defender 90,19
+land rover,defender 110,19
+land rover,range rover evoque,27
+land rover,discovery sport,23
+jaguar,f-type r awd coupe,24
+jaguar,f-type r awd convertible,24
+jaguar,f-type p450 rwd coupe,24
+jaguar,f-type p450 rwd convertible,24
+jaguar,f-type p450 awd r-dynamic coupe,24
+jaguar,f-type p450 awd r-dynamic convertible,24
+genesis,g70 awd,26
+genesis,g70 rwd,27
+genesis,g70 rwd,31
+land rover,range rover evoque mhev,26
+genesis,g70 awd,28
+honda,odyssey,28
+genesis,gv70 awd,26
+genesis,gv70 awd,28
+genesis,gv70 awd,24
+kia,sportage hybrid awd,38
+kia,sportage hybrid fwd,44
+genesis,gv80 awd,24
+genesis,gv80 awd,23
+mini,cooper convertible,38
+mini,cooper convertible,37
+bmw,m850i xdrive coupe,24
+bmw,m850i xdrive convertible,24
+bmw,m8 competition coupe,22
+bmw,m8 competition convertible,22
+mini,cooper hardtop 2 door,38
+mini,cooper hardtop 2 door,37
+mini,cooper hardtop 4 door,38
+mini,cooper hardtop 4 door,37
+bmw,x2 m35i,31
+bmw,m850i xdrive gran coupe,24
+bmw,alpina b8 gran coupe,24
+bmw,m8 competition gran coupe,22
+kia,stinger awd,29
+kia,stinger rwd,32
+kia,stinger awd,24
+kia,stinger rwd,25
+mini,cooper countryman,32
+jaguar,f-type r awd coupe,24
+jaguar,f-type r awd convertible,24
+jaguar,f-type p450 rwd coupe,24
+jaguar,f-type p450 rwd convertible,24
+jaguar,f-type p450 awd r-dynamic coupe,24
+jaguar,f-type p450 awd r-dynamic convertible,24
+chevrolet,trax,32
+jaguar,e-pace,26
+land rover,range rover evoque,27
+land rover,discovery sport,23
+kia,seltos fwd,34
+kia,seltos awd,27
+kia,seltos awd,31
+mini,cooper convertible,38
+mini,cooper convertible,38
+mini,cooper s convertible,36
+mini,cooper s convertible,33
+mini,john cooper works convertible,33
+bmw,430i coupe,34
+bmw,430i xdrive coupe,33
+bmw,430i convertible,34
+bmw,430i xdrive convertible,33
+bmw,m4 coupe,23
+bmw,m4 competition coupe,23
+bmw,m4 competition m xdrive coupe,22
+bmw,m4 competition m xdrive convertible,23
+bmw,840i coupe,29
+bmw,840i xdrive coupe,29
+bmw,840i convertible,29
+bmw,840i xdrive convertible,29
+bmw,m850i xdrive coupe,24
+bmw,m850i xdrive convertible,24
+bmw,m8 competition coupe,22
+bmw,m8 competition convertible,22
+mini,cooper hardtop 2 door,38
+mini,cooper hardtop 2 door,38
+mini,cooper hardtop 4 door,38
+mini,cooper hardtop 4 door,38
+mini,cooper s hardtop 2 door,38
+mini,cooper s hardtop 2 door,33
+mini,cooper s hardtop 4 door,38
+mini,cooper s hardtop 4 door,33
+mini,john cooper works hardtop 2 door,35
+mini,john cooper works hardtop 2 door,32
+bmw,430i gran coupe,34
+bmw,430i xdrive gran coupe,33
+bmw,840i gran coupe,29
+bmw,840i xdrive gran coupe,29
+bmw,m850i xdrive gran coupe,24
+bmw,alpina b8 gran coupe,24
